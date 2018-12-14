@@ -43,7 +43,7 @@
 		padding-top: 0;
 		padding-bottom: 0;
 		border-bottom: none;
-        background: rgb(255, 255, 255);
+        background: rgba(255, 255, 255, 1.0);
 		transition: background-color .3s ease-in-out
 	}
 	#mainNav .navbar-brand {
