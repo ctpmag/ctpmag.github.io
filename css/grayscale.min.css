@@ -170,7 +170,7 @@
 
 .about-section {
 	padding-top: 5rem;
-	background: linear-gradient(to bottom, #161616 0, rgba(18, 132, 190, .3) 45%, rgba(18, 132, 190, .0) 100%), url(../img/enerlimpa1.jpg)
+	background: linear-gradient(to bottom, #161616 0, rgba(18, 132, 190, 1.0) 45%, rgba(18, 132, 190, .0) 100%), url(../img/enerlimpa1.jpg)
 }
 
 .about-section p {
@@ -179,7 +179,7 @@
 
 @media (max-width:992px) {
 	.about-section {
-		background: linear-gradient(to bottom, #161616 0, rgba(18, 132, 190, .3) 45%, rgba(18, 132, 190, .0) 100%)
+		background: linear-gradient(to bottom, #161616 0, rgba(18, 132, 190, 1.0) 45%, rgba(18, 132, 190, .0) 100%)
 	}
 	.about-section p {
 		margin-bottom: 1rem
