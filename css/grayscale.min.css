@@ -76,7 +76,7 @@
 		color: #64a19d
 	}
 	#mainNav.navbar-shrink .nav-link:active {
-		color: firebrick
+		color: #467370
 	}
 	#mainNav.navbar-shrink .nav-link.active {
 		color: #64a19d;
@@ -159,7 +159,7 @@
 }
 
 .btn-primary:active {
-	background-color: #467370!important
+	background-color: firebrick!important
 }
 
 @media (max-width:1024px) {
