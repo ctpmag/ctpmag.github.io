@@ -81,7 +81,7 @@
 	#mainNav.navbar-shrink .nav-link.active {
 		color: #64a19d;
 		outline: 0;
-		border-bottom: .25rem solid #64a19d
+		border-bottom: .25rem solid firebrick
 	}
 }
 
@@ -159,7 +159,7 @@
 }
 
 .btn-primary:active {
-	background-color: firebrick!important
+	background-color: #467370!important
 }
 
 @media (max-width:1024px) {
