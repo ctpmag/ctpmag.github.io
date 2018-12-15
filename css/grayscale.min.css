@@ -73,13 +73,13 @@
 		border-bottom: .25rem solid transparent
 	}
 	#mainNav.navbar-shrink .nav-link:hover {
-		color: firebrick
+		color: #64a19d
 	}
 	#mainNav.navbar-shrink .nav-link:active {
-		color: #467370
+		color: firebrick
 	}
 	#mainNav.navbar-shrink .nav-link.active {
-		color: firebrick;
+		color: #64a19d;
 		outline: 0;
 		border-bottom: .25rem solid #64a19d
 	}
