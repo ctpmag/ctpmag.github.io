@@ -73,13 +73,13 @@
 		border-bottom: .25rem solid transparent
 	}
 	#mainNav.navbar-shrink .nav-link:hover {
-		color: #64a19d
+		color: #666699
 	}
 	#mainNav.navbar-shrink .nav-link:active {
-		color: #467370
+		color: #666699
 	}
 	#mainNav.navbar-shrink .nav-link.active {
-		color: #64a19d;
+		color: #666699;
 		outline: 0;
 		border-bottom: .25rem solid #E22222
 	}
@@ -236,7 +236,7 @@
 .signup-section {
 	padding-top: 1rem;
 	padding-bottom: 0;
-	background: linear-gradient(to bottom, rgba(22, 22, 22, .1) 0, rgba(22, 22, 22, .3) 75%, #161616 100%), url(../img/slices.png);
+	background: linear-gradient(to bottom, rgba(22, 22, 22, .1) 0, rgba(22, 22, 22, .3) 75%, #161616 100%), url(../img/slices1.png);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-attachment: scroll;
